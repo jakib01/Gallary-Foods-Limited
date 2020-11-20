@@ -1,0 +1,26 @@
+<files .env>
+order allow,deny
+deny from all
+</files>
+
+
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=busizowf_business_gallery_db
+DB_USERNAME=busizowf_business_gallery_db
+DB_PASSWORD=6@b@EBole1Bn
+
+
+
+
+For Demo database
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=busizowf_demo_business_gallery_limited_db
+DB_USERNAME=busizowf_demo
+DB_PASSWORD=_nFcvx*J_YL~
+
